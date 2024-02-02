@@ -1,4 +1,4 @@
-# *Guess the number* - web app
+# *Guess the number* web app
 
 **Table of content**
 
